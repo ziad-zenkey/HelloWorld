@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "0af5b9ed3b9472678226576fa75fda97"
+build_time: [1627246020, 99020000]
+inputs:
+  "/Users/ziadharb/HelloWorld/Shared/ContentView.swift": [1627243128, 770509708]
+  "/Users/ziadharb/HelloWorld/Shared/HelloWorldApp.swift": [1627243128, 768226212]

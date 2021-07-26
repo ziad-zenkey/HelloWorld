@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Pods-HelloWorld (iOS) in Pods
+HelloWorld (iOS) in HelloWorld, depends on:
+Pods-HelloWorld (iOS) in Pods (implicit dependency via file 'Pods_HelloWorld__iOS_.framework' in build phase 'Link Binary'

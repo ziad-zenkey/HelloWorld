@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>8803869F-B0FE-4CFE-B654-82AF51A83E1E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8803869F-B0FE-4CFE-B654-82AF51A83E1E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HelloWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HelloWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace HelloWorld with scheme HelloWorld and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>649012961.63649905</real>
+			<key>timeStoppedRecording</key>
+			<real>649012969.75971794</real>
+			<key>title</key>
+			<string>Building workspace HelloWorld with scheme HelloWorld and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8803869F-B0FE-4CFE-B654-82AF51A83E1E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
